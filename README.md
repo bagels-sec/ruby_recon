@@ -6,4 +6,4 @@
 sudo ./recon.rb 192.168.0.0/24
 
 ##### To test for DNS Zone xfer:
-sudo ./recon.rb 192.168.0.0/24 <domain>
+sudo ./recon.rb 192.168.0.0/24 test.com
