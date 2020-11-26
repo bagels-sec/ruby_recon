@@ -1,9 +1,8 @@
 #!/usr/bin/env ruby
-require 'erb'
+
 require 'nmap/program'
 require 'colorize'
 require 'artii'
-require 'sculpt'
 
 puts "\n\n"
 puts ' _______                                          '.colorize(:light_blue)
