@@ -1,6 +1,6 @@
 # ruby_recon
-> A Ruby script for automating various initial recon steps Ping Sweeps / SMB / DNS
-> Converts nmap output to html reports and dumps them to the ./reports dir
+> A Ruby script for automating various initial recon steps Ping Sweeps / SMB / DNS,
+> converts nmap output to html reports and dumps them to the ./reports dir
 
 ##### Usage: 
 sudo ./recon.rb 192.168.0.0/24
